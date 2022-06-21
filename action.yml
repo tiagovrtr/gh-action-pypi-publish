@@ -30,6 +30,10 @@ inputs:
     description: Show verbose output.
     required: false
     default: false
+  output_release_version:
+    description: Show release version as output.
+    required: false
+    default: false
   print_hash:
     description: Show hash values of files to be uploaded
     required: false
